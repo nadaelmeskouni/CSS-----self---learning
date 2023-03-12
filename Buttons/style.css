@@ -1,0 +1,17 @@
+button {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0px 5px;
+  }
+  button:hover {
+    cursor: pointer;
+    background-color: #C0D6DF;
+  }
+  button:active {
+    margin-top: 5px;
+    margin-bottom: 16px;
+    color: black;
+    box-shadow: 0px 0px;
+  }
