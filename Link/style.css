@@ -1,0 +1,20 @@
+a {
+    color: #466995;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  a:hover {
+    text-decoration: none;
+    color: orange;
+  }
+  a:visited {
+    color: #466995;
+  }
+  a:active {
+    color: #DBE9EE;
+  }
+  
+  
+  
+
+  
